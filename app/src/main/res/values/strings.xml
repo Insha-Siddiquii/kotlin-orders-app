@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="order_id">Order Id: %s</string>
+    <string name="order_name">Order Desc: %s</string>
+</resources>
